@@ -47,7 +47,6 @@ This project is a **real-time object detection web app** that utilizes **TensorF
 ## 📁 Folder Structure
 
 Object-Identification/
-│
 ├── public/ # Static files
 │ └── index.html
 │
@@ -68,7 +67,6 @@ Object-Identification/
 ├── tsconfig.json
 ├── postcss.config.js
 └── README.md # ← You are here
-
 
 ---
 
